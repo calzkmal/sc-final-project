@@ -1,6 +1,6 @@
 # sc-final-project
 
-Dashboard link: <href="https://app.powerbi.com/view?r=eyJrIjoiNmI2YzM1ODAtNWQ0YS00ZjVhLTg1NWItZjA3NjY4MjYzZTQ0IiwidCI6ImRlOTVkMDk4LWE3OGMtNGE1MS1iMDQ1LTJjOWYyYzQwYzc1MyIsImMiOjEwfQ%3D%3D">
+Dashboard link:  [click here](https://app.powerbi.com/view?r=eyJrIjoiNmI2YzM1ODAtNWQ0YS00ZjVhLTg1NWItZjA3NjY4MjYzZTQ0IiwidCI6ImRlOTVkMDk4LWE3OGMtNGE1MS1iMDQ1LTJjOWYyYzQwYzc1MyIsImMiOjEwfQ%3D%3D) 
 
 Dataset ini merupakan data yang berisi penjualan produk di berbagai supermarket yang
 menawarkan sumber informasi yang kaya untuk mengeksplorasi berbagai masalah bisnis
